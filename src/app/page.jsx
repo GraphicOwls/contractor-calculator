@@ -1,7 +1,6 @@
 /** @format */
 'use client'
 
-import { Button } from '@/components/ui/button'
 import PercentageForm from '@/components/PercentageForm'
 import { ModeToggle } from '@/components/ModeToggle'
 
